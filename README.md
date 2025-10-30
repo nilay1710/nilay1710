@@ -11,6 +11,9 @@
 - Full-stack TypeScript app that lets users query and visualize UBC course and classroom data.  
 - Built with **Node.js**, **Express**, and **TypeScript** — includes REST APIs, transformations, and live query engine.  
 
+<br>
+
+
 
 ![Project Demo](https://github.com/nilay1710/InsightUBC/blob/main/project_team055/frontend/gif.gif)
 
