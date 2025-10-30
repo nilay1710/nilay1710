@@ -17,8 +17,7 @@
 
 ![Project Demo](https://github.com/nilay1710/InsightUBC/blob/main/project_team055/frontend/gif.gif)
 
-###  [AI Evaluation Toolkit]
-Python library for analyzing LLM output consistency and ranking model responses.  
+
 
 ---
 
