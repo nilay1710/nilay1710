@@ -1,20 +1,30 @@
-## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+# 👋 Hi, I'm Nilay Mankala
 
-<!--
-**nilay1710/nilay1710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Computer Science, University of British Columbia  
+💻 Software Developer passionate about **AI, full-stack development, and data science**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Featured Projects
+
+###  [UBC Course Explorer](https://github.com/nilay1710/InsightUBC)
+Full-stack TypeScript app that lets users query and visualize UBC course and classroom data.  
+Built with **Node.js**, **Express**, and **TypeScript** — includes REST APIs, transformations, and live query engine.  
+
+
+![Project Demo](https://github.com/nilay1710/InsightUBC/blob/main/project_team055/frontend/gif.gif)
+
+###  [AI Evaluation Toolkit]
+Python library for analyzing LLM output consistency and ranking model responses.  
+
+---
+
+## 🧠 What I’m Learning
+- Advanced backend design patterns (Nest.js, FastAPI)  
+- System design & database optimization  
+- AI agent evaluation & reasoning analysis  
+
+---
+
+## 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/nilay-mankala/)
