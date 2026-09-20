@@ -8,12 +8,12 @@
 ##  Featured Projects
 
 ###  [WorkSync App](https://github.com/nilay1710/WorkSync)
-- Full-stack TypeScript app that lets users query and visualize UBC course and classroom data.  
-- Built with **Node.js**, **Express**, and **TypeScript** — includes REST APIs, transformations, and live query engine.  
+- Interactive Kanban & Visual Canvas:** Seamlessly switch between dynamic task tracking and a full-screen vector canvas editor for freeform visual brainstorming.
+- Full-Stack Persistence & Performance:** Built with React, Vite, Tailwind CSS, and a Node.js/Express REST API backed by SQLite for real-time state management, activity logging, and fast search.
 
 <br>
 
-
+# 👉 [LIVE APP DEMO](https://worksync-frontend-h07j.onrender.com) *(Cmd/Ctrl + click to open in a new tab)*
 
 ![Project Demo](https://github.com/nilay1710/WorkSync/blob/main/demo.gif)
 
